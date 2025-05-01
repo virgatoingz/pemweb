@@ -3,4 +3,6 @@ pert3/pert3/db/*
 pert3/pert3-END/db/*
 ../pert3/pert3-END/db/*
 pert4/db/*
-../pert4/db/*s
+../pert4/db/*
+pert5/db/*
+../pert5/db/*
